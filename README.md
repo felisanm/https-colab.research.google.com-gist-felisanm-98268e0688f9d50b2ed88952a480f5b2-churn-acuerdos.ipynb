@@ -5,4 +5,5 @@ Extracción reportes generados
 Merge dataset - 26MB 
 
 SMART question
+
 ¿En qué medida la implementación de un modelo predictivo basado en técnicas de machine learning (usando datos históricos de acuerdos de pago con parámetros como “Base acuerdo”, “Vlr ctas”, y otros indicadores económicos) puede incrementar en al menos un 15% la recuperación de ingresos corrientes en un periodo de 12 meses, permitiendo definir estrategias de intervención más focalizadas en Santiago de Cali?
